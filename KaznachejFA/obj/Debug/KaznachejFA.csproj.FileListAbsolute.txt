@@ -1,0 +1,17 @@
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\bin\Debug\KaznachejFA.dll
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\bin\Debug\KaznachejFA.pdb
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\bin\Debug\KaznachejFA.pri
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\KaznachejFA.csproj.CoreCompileInputs.cache
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\KaznachejFA.dll
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\KaznachejFA.pdb
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\priconfig.xml
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\priconfig.xml.intermediate
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\layout.resfiles
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\layout.resfiles.intermediate
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\resources.resfiles
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\resources.resfiles.intermediate
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\pri.resfiles
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\pri.resfiles.intermediate
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\qualifiers.txt
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\qualifiers.txt.intermediate
+C:\Users\root\Source\Repos\KaznachejFA\KaznachejFA\obj\Debug\MultipleQualifiersPerDimensionFound.txt
